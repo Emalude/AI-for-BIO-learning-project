@@ -1,6 +1,6 @@
 # AI for Biology Learning Project
 
-<img src="https://github.com/Emalude/AI-for-BIO-learning-project/blob/main/AI-for-BIO-learning-project.png" height="800" width="800">
+<img src="https://github.com/Emalude/AI-for-BIO-learning-project/blob/main/AI-for-Bio.png">
 
 ## Introduction
 
