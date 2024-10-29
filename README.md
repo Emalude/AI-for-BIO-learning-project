@@ -1,6 +1,6 @@
 # AI for Biology Learning Project
 
-![AI for Biology learning project](https://github.com/Emalude/AI-for-BIO-learning-project/blob/main/AI-for-BIO-learning-project.png)
+![AI for Biology learning project](https://github.com/Emalude/AI-for-BIO-learning-project/blob/main/AI-for-BIO-learning-project.png | width=200)
 
 ## Introduction
 
