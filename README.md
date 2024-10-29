@@ -1,5 +1,7 @@
 # AI for Biology Learning Project
 
+![AI for Biology learning project](https://cdn.midjourney.com/94291432-58ab-4572-a1ba-6681855a4096/0_2.png)
+
 ## Introduction
 
 In this learning project I will share my progress, as well as all the resources I will use to learn about the fascinating intersection of AI and Biology.
@@ -18,7 +20,7 @@ I already have some intermediate knowledge of both AI and Biology. As such, the 
 
 ## Preliminary Schedule
 
-This is a preliminary (very large) list of broad topics divided in three main pillars: Biology, AI, AI for Biology. I won't cover them sequentially (meaning that I won't finish the Biology pillar before moving to the AI pillar) but I will follow a logic path covering (or reviewing) the fundamentals first.
+This is a preliminary (very large) list of broad topics divided in three main pillars: Biology, AI, AI for Biology. I won't cover them sequentially (meaning that I won't finish the Biology pillar before moving to the AI pillar) but I will follow a logic path covering (or reviewing) the fundamentals first. Apart from the fundamentals first, I don't have a scheduled order to follow the other macro-topics. If you have preferences, feel free to let me know (see below how to contribute to the project or to get in touch with me).
 
 ### Biology
 - Biochemistry
@@ -40,3 +42,12 @@ This is a preliminary (very large) list of broad topics divided in three main pi
 - Multi-omics data analysis
 - Knowledge Graph Embeddings model for drug discovery
 
+## How to contribute to the project or get in touch
+
+I would love for this project to be collaborative. As such, feel free to open a issue here on GitHub to discuss any topics or highlights any mistakes or things that should be done differently. Also, feel free to open a pull request to add useful resources or contributes to the learning project.
+
+If you would like to stay updated about further developments (for example, I'm planning to write blog posts after finishing macro-topics, YouTube videos explaining LLM architectures etc.) or to get in touch with me for any other reason feel free to email me at sicurellaemanuele[at]gmail.com.
+
+## Thank you and happy learning!
+
+_Emanuele_
