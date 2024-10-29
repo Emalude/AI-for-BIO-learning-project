@@ -49,6 +49,8 @@ I would love for this project to be collaborative. As such, feel free to open a 
 If you would like to stay updated about further developments (for example, I'm planning to write blog posts after finishing macro-topics, YouTube videos explaining LLM architectures etc.) or to get in touch with me for any other reason feel free to email me at sicurellaemanuele[at]gmail.com.
 
 **Thank you and happy learning!**
+
 _Emanuele_
+
 
 _Images generated with Midjourney_
